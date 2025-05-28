@@ -1,8 +1,8 @@
 # 关于我
 
-<img
+<img \
     align="right"
-    src="https://github-readme-stats.zohan.tech/api? \
+    src="<https://github-readme-stats.zohan.tech/api>? \
         username=MisakiSATA&\
         hide_border=true&\
         show_icons=true&\
