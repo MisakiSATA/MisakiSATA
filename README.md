@@ -5,4 +5,4 @@
 * 我的ID：MisakiSATA  也可能是Zyphorix
 * 我的blog：xuanjidataworks.online
 
-![MOBAIcons](https://mobaicons.com/icons/c,c++,go,php,python,rust,vue,astro,django,fastify,flask,spring,mysql,redis,visualstudiocode,linux,windows,arch,obsdian,vim,docker,trpc?perline=7)
+![MOBAIcons](https://mobaicons.com/icons/c,go,php,python,rust,vue,astro,django,fastify,flask,spring,mysql,redis,linux,windows,arch,obsdian,vim,docker,trpc?perline=7)
