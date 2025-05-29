@@ -4,5 +4,6 @@
 
 * 我的ID：MisakiSATA  也可能是Zyphorix
 * 我的blog：xuanjidataworks.online
+* CTF混子手，
 
-![MOBAIcons](https://mobaicons.com/icons/c,go,php,python,rust,vue,astro,django,fastify,flask,spring,mysql,redis,linux,windows,arch,fedora,vim,docker,trpc?perline=7)
+![MOBAIcons](https://mobaicons.com/icons/c,go,php,python,rust,vue,astro,django,fastify,flask,spring,mysql,redis,linux,windows,arch,fedora,ubuntu,powertoy,wordpress,tabby,vim,docker,minecraft,trpc?perline=7)
