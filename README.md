@@ -4,5 +4,6 @@
 
 * 我的ID：MisakiSATA  也可能是Zyphorix
 * 我的blog：xuanjidataworks.online
+* 目前正在学习逆向和计算机系统及内核
 
 ![MOBAIcons](https://mobaicons.com/icons/c,go,php,python,rust,vue,astro,flask,spring,mysql,redis,linux,windows,arch,fedora,ubuntu,wordpress,tabby,vim,docker,trpc?perline=7)
