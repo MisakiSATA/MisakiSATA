@@ -7,4 +7,4 @@
 - 刚毕业无业游民，学习方向很杂但是都很感兴趣
 - QQ：1838424626
 
-![MOBAIcons](https://mobaicons.com/icons/c,go,python,rust,mysql,redis,linux,windows,arch,fedora,ubuntu,vim,docker,trpc?perline=7)
+![MOBAIcons](https://mobaicons.com/icons/c,go,python,rust,mysql,redis,linux,windows,arch,fedora,ubuntu,vim,docker,trpc?perline=14)
